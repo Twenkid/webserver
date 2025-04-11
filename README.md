@@ -1,11 +1,15 @@
-Todor's updates: python3 in cgi-bin
-
+**Todor's updates:**
+python3 in cgi-bin print ...
+To install:
+```
 git clone ...
 cd webserver
 git clone https://github.com/pminkov/threadpool
 ...
 
-# Petko Minkov (pminkov):
+Continue with Petko's instructions
+
+### Petko Minkov (pminkov): 
 # Webserver
 
 I wrote this code as an exercise in systems programming with C. This is a simple multi-threaded webserver. Each request is executed in a separate thread and the threads are managed by a [thread pool](https://github.com/pminkov/threadpool).
