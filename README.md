@@ -5,7 +5,7 @@ To install:
 git clone ...
 cd webserver
 git clone https://github.com/pminkov/threadpool
-...
+```
 
 Continue with Petko's instructions
 
